@@ -1,0 +1,850 @@
+Date;IT Department;Cost Element;Country;Actual
+01/01/2020;Administration;External Labor;United Kingdom;1.754
+01/01/2020;Administration;External Labor;USA;24.376
+01/01/2020;Administration;Hardware Maintenance;USA;5.345
+01/01/2020;Administration;Inbound Allocations;United Kingdom;318
+01/01/2020;Administration;Internal Labor;Italy;5.599
+01/01/2020;Administration;Internal Labor;United Kingdom;21.365
+01/01/2020;Administration;Internal Labor;USA;90.994
+01/01/2020;Administration;Legal;USA;7.258
+01/01/2020;Administration;Moving;USA;404
+01/01/2020;Administration;Other;Italy;12
+01/01/2020;Administration;Other;United Kingdom;18
+01/01/2020;Administration;Other;USA;-3.239
+01/01/2020;Administration;Outbound Allocations;United Kingdom;685
+01/01/2020;Administration;Severance;Italy;388
+01/01/2020;Administration;Software;USA;5
+01/01/2020;Administration;Supplies;USA;17
+01/01/2020;Administration;Telecomm;Italy;2
+01/01/2020;Administration;Telecomm;United Kingdom;103
+01/01/2020;Administration;Travel;USA;6.934
+01/01/2020;Administration;Vehicles;United Kingdom;62
+01/01/2020;Architecture;Depreciation;USA;693
+01/01/2020;Architecture;Internal Labor;USA;41.537
+01/01/2020;Architecture;Supplies;USA;26
+01/01/2020;Architecture;Taxes;USA;48
+01/01/2020;Architecture;Training;USA;14
+01/01/2020;Architecture;Travel;USA;54
+01/01/2020;Business Intelligence;Employee Performance;USA;2
+01/01/2020;Business Intelligence;External Labor;USA;3.636
+01/01/2020;Business Intelligence;Internal Labor;USA;64.388
+01/01/2020;Business Intelligence;Supplies;USA;19
+01/01/2020;Core;External Labor;USA;1.723
+01/01/2020;Core;Internal Labor;USA;20.476
+01/01/2020;Core;Training;USA;399
+01/01/2020;Core;Travel;USA;108
+01/01/2020;Core Infrastructure;Amortization;Mexico;691
+01/01/2020;Core Infrastructure;Depreciation;Brazil;14.333
+01/01/2020;Core Infrastructure;Depreciation;Canada;10.731
+01/01/2020;Core Infrastructure;Depreciation;Mexico;2.148
+01/01/2020;Core Infrastructure;Depreciation;New Zealand;5.944
+01/01/2020;Core Infrastructure;Employee Performance;USA;30
+01/01/2020;Core Infrastructure;External Labor;Brazil;12.109
+01/01/2020;Core Infrastructure;External Labor;Canada;15.054
+01/01/2020;Core Infrastructure;External Labor;Mexico;5.169
+01/01/2020;Core Infrastructure;External Labor;New Zealand;-687
+01/01/2020;Core Infrastructure;External Labor;USA;35.183
+01/01/2020;Core Infrastructure;Hardware;Brazil;1.192
+01/01/2020;Core Infrastructure;Hardware;Mexico;36.859
+01/01/2020;Core Infrastructure;Hardware;New Zealand;29.980
+01/01/2020;Core Infrastructure;Hardware Maintenance;Brazil;432
+01/01/2020;Core Infrastructure;Hardware Maintenance;Mexico;4.253
+01/01/2020;Core Infrastructure;Hardware Maintenance;New Zealand;15
+01/01/2020;Core Infrastructure;Hardware Maintenance;USA;46
+01/01/2020;Core Infrastructure;Internal Labor;Brazil;14.726
+01/01/2020;Core Infrastructure;Internal Labor;Mexico;2.093
+01/01/2020;Core Infrastructure;Internal Labor;New Zealand;39.087
+01/01/2020;Core Infrastructure;Internal Labor;Switzerland;2.677
+01/01/2020;Core Infrastructure;Internal Labor;USA;55.695
+01/01/2020;Core Infrastructure;Moving;USA;1.862
+01/01/2020;Core Infrastructure;Other;Brazil;10.842
+01/01/2020;Core Infrastructure;Other;Canada;13
+01/01/2020;Core Infrastructure;Other;Mexico;18.436
+01/01/2020;Core Infrastructure;Other;New Zealand;20
+01/01/2020;Core Infrastructure;Other;USA;388
+01/01/2020;Core Infrastructure;Recognition;Brazil;8.225
+01/01/2020;Core Infrastructure;Recognition;New Zealand;1.040
+01/01/2020;Core Infrastructure;Severance;Brazil;1.393
+01/01/2020;Core Infrastructure;Severance;Mexico;1
+01/01/2020;Core Infrastructure;Severance;New Zealand;1.437
+01/01/2020;Core Infrastructure;Software;New Zealand;3.932
+01/01/2020;Core Infrastructure;Software;USA;5
+01/01/2020;Core Infrastructure;Supplies;Brazil;4.113
+01/01/2020;Core Infrastructure;Supplies;New Zealand;1.667
+01/01/2020;Core Infrastructure;Supplies;USA;543
+01/01/2020;Core Infrastructure;Taxes;USA;10
+01/01/2020;Core Infrastructure;Telecomm;Brazil;1.060
+01/01/2020;Core Infrastructure;Telecomm;Canada;1.789
+01/01/2020;Core Infrastructure;Telecomm;Mexico;1.800
+01/01/2020;Core Infrastructure;Telecomm;New Zealand;-4.548
+01/01/2020;Core Infrastructure;Telecomm;Switzerland;28
+01/01/2020;Core Infrastructure;Travel;Brazil;-1.307
+01/01/2020;Core Infrastructure;Travel;Canada;64
+01/01/2020;Core Infrastructure;Travel;New Zealand;2.262
+01/01/2020;Core Infrastructure;Travel;USA;7.048
+01/01/2020;Core Infrastructure;Vehicles;Mexico;19
+01/01/2020;Core Infrastructure;Vehicles;New Zealand;188
+01/01/2020;Data Centers;Amortization;USA;1.725
+01/01/2020;Data Centers;CAPEX;USA;879
+01/01/2020;Data Centers;Depreciation;Ireland;593
+01/01/2020;Data Centers;Depreciation;United Kingdom;18.650
+01/01/2020;Data Centers;Depreciation;USA;241.925
+01/01/2020;Data Centers;Employee Performance;USA;32
+01/01/2020;Data Centers;External Labor;Germany;-2.816
+01/01/2020;Data Centers;External Labor;Ireland;100.204
+01/01/2020;Data Centers;External Labor;United Kingdom;3.683
+01/01/2020;Data Centers;External Labor;USA;308.406
+01/01/2020;Data Centers;Hardware;USA;40.611
+01/01/2020;Data Centers;Hardware Maintenance;United Kingdom;-11.869
+01/01/2020;Data Centers;Hardware Maintenance;USA;132.866
+01/01/2020;Data Centers;Internal Labor;Austria;3.497
+01/01/2020;Data Centers;Internal Labor;Germany;12.312
+01/01/2020;Data Centers;Internal Labor;Netherlands;3.242
+01/01/2020;Data Centers;Internal Labor;Spain;3.031
+01/01/2020;Data Centers;Internal Labor;United Kingdom;9.797
+01/01/2020;Data Centers;Internal Labor;USA;138.204
+01/01/2020;Data Centers;Other;Germany;19
+01/01/2020;Data Centers;Other;Netherlands;5
+01/01/2020;Data Centers;Other;Spain;87
+01/01/2020;Data Centers;Other;United Kingdom;226
+01/01/2020;Data Centers;Other;USA;12
+01/01/2020;Data Centers;Project Expenses;United Kingdom;-2.735
+01/01/2020;Data Centers;Project Expenses;USA;19.804
+01/01/2020;Data Centers;Recognition;Austria;31
+01/01/2020;Data Centers;Severance;Austria;34
+01/01/2020;Data Centers;Software;United Kingdom;-3.337
+01/01/2020;Data Centers;Software;USA;28.343
+01/01/2020;Data Centers;Software Maintenance;United Kingdom;4.249
+01/01/2020;Data Centers;Software Maintenance;USA;149.664
+01/01/2020;Data Centers;Supplies;USA;119
+01/01/2020;Data Centers;Taxes;USA;19.219
+01/01/2020;Data Centers;Telecomm;Austria;-9
+01/01/2020;Data Centers;Telecomm;Spain;39
+01/01/2020;Data Centers;Telecomm;United Kingdom;5
+01/01/2020;Data Centers;Training;Netherlands;56
+01/01/2020;Data Centers;Training;United Kingdom;1.723
+01/01/2020;Data Centers;Training;USA;3.980
+01/01/2020;Data Centers;Travel;Netherlands;1.265
+01/01/2020;Data Centers;Travel;United Kingdom;2.409
+01/01/2020;Data Centers;Travel;USA;1.102
+01/01/2020;Data Centers;Vehicles;Netherlands;339
+01/01/2020;Data Centers;Vehicles;United Kingdom;32
+01/01/2020;Data Management;Amortization;Germany;441
+01/01/2020;Data Management;Depreciation;Germany;4.597
+01/01/2020;Data Management;Hardware;Germany;1.247
+01/01/2020;Data Management;Internal Labor;Spain;2.815
+01/01/2020;Data Management;Other;Germany;106.627
+01/01/2020;Data Management;Supplies;Germany;60
+01/01/2020;Data Management;Telecomm;Germany;-15.386
+01/01/2020;Data Management;Telecomm;Spain;70
+01/01/2020;Data Management;Training;Germany;299
+01/01/2020;Data Management;Vehicles;Spain;141
+01/01/2020;Development;Amortization;USA;6.087
+01/01/2020;Development;Depreciation;USA;-6.087
+01/01/2020;Development;Employee Performance;USA;28
+01/01/2020;Development;External Labor;Germany;5.330
+01/01/2020;Development;External Labor;United Kingdom;690
+01/01/2020;Development;External Labor;USA;1.902
+01/01/2020;Development;Hardware;USA;48
+01/01/2020;Development;Inbound Allocations;United Kingdom;116
+01/01/2020;Development;Internal Labor;Germany;10.271
+01/01/2020;Development;Internal Labor;Spain;3.548
+01/01/2020;Development;Internal Labor;United Kingdom;6.374
+01/01/2020;Development;Internal Labor;USA;149.259
+01/01/2020;Development;Other;United Kingdom;559
+01/01/2020;Development;Other;USA;8
+01/01/2020;Development;Outbound Allocations;United Kingdom;1.284
+01/01/2020;Development;Software Maintenance;USA;90.637
+01/01/2020;Development;Supplies;USA;18
+01/01/2020;Development;Taxes;USA;1.222
+01/01/2020;Development;Telecomm;Germany;23
+01/01/2020;Development;Telecomm;Spain;15
+01/01/2020;Development;Telecomm;United Kingdom;143
+01/01/2020;Development;Telecomm;USA;54
+01/01/2020;Development;Training;USA;759
+01/01/2020;Development;Travel;Spain;157
+01/01/2020;Development;Travel;United Kingdom;3.476
+01/01/2020;Development;Travel;USA;3.747
+01/01/2020;Development;Vehicles;United Kingdom;1
+01/01/2020;Distribution;Amortization;Italy;5.136
+01/01/2020;Distribution;Depreciation;Belgium;16
+01/01/2020;Distribution;Depreciation;Italy;270
+01/01/2020;Distribution;Depreciation;Switzerland;448
+01/01/2020;Distribution;Depreciation;United Kingdom;25
+01/01/2020;Distribution;Employee Performance;USA;4
+01/01/2020;Distribution;External Labor;France;-154
+01/01/2020;Distribution;External Labor;Germany;-1.713
+01/01/2020;Distribution;External Labor;United Kingdom;3.616
+01/01/2020;Distribution;Hardware;Belgium;46
+01/01/2020;Distribution;Hardware;Canada;56
+01/01/2020;Distribution;Internal Labor;Belgium;10.713
+01/01/2020;Distribution;Internal Labor;Canada;9.850
+01/01/2020;Distribution;Internal Labor;France;14.195
+01/01/2020;Distribution;Internal Labor;Germany;24.195
+01/01/2020;Distribution;Internal Labor;Italy;49.551
+01/01/2020;Distribution;Internal Labor;Spain;4.581
+01/01/2020;Distribution;Internal Labor;Switzerland;9.438
+01/01/2020;Distribution;Internal Labor;United Kingdom;8.755
+01/01/2020;Distribution;Internal Labor;USA;75.649
+01/01/2020;Distribution;Other;Belgium;27
+01/01/2020;Distribution;Other;Germany;233
+01/01/2020;Distribution;Other;Italy;35
+01/01/2020;Distribution;Other;Spain;12
+01/01/2020;Distribution;Other;Switzerland;2.827
+01/01/2020;Distribution;Other;USA;43
+01/01/2020;Distribution;Outbound Allocations;United Kingdom;685
+01/01/2020;Distribution;Severance;Italy;-46.919
+01/01/2020;Distribution;Software Maintenance;France;6.167
+01/01/2020;Distribution;Supplies;Belgium;49
+01/01/2020;Distribution;Telecomm;Belgium;57
+01/01/2020;Distribution;Telecomm;Canada;90
+01/01/2020;Distribution;Telecomm;France;2.428
+01/01/2020;Distribution;Telecomm;Italy;7
+01/01/2020;Distribution;Telecomm;Spain;58
+01/01/2020;Distribution;Telecomm;Switzerland;224
+01/01/2020;Distribution;Telecomm;United Kingdom;14.009
+01/01/2020;Distribution;Training;Belgium;-2.837
+01/01/2020;Distribution;Training;France;1.506
+01/01/2020;Distribution;Training;Germany;-5.179
+01/01/2020;Distribution;Travel;Belgium;401
+01/01/2020;Distribution;Travel;Germany;1.331
+01/01/2020;Distribution;Travel;Italy;223
+01/01/2020;Distribution;Travel;Spain;120
+01/01/2020;Distribution;Vehicles;Belgium;390
+01/01/2020;Distribution;Vehicles;Germany;825
+01/01/2020;Distribution;Vehicles;United Kingdom;1.360
+01/01/2020;Document Management;Depreciation;USA;261
+01/01/2020;Document Management;Employee Performance;USA;27
+01/01/2020;Document Management;External Labor;USA;36.346
+01/01/2020;Document Management;Hardware Maintenance;USA;46
+01/01/2020;Document Management;Internal Labor;USA;198.600
+01/01/2020;Document Management;Recognition;USA;208
+01/01/2020;Document Management;Software;USA;6.976
+01/01/2020;Document Management;Software Maintenance;USA;76.865
+01/01/2020;Document Management;Supplies;USA;16
+01/01/2020;Document Management;Taxes;USA;171
+01/01/2020;Document Management;Training;USA;27
+01/01/2020;Document Management;Travel;USA;158
+01/01/2020;EIM;Amortization;Italy;157
+01/01/2020;EIM;Depreciation;Italy;1.558
+01/01/2020;EIM;Employee Performance;USA;6
+01/01/2020;EIM;External Labor;USA;40.877
+01/01/2020;EIM;Hardware;USA;1.428
+01/01/2020;EIM;Internal Labor;Belgium;6.006
+01/01/2020;EIM;Internal Labor;Italy;1.913
+01/01/2020;EIM;Internal Labor;USA;112.378
+01/01/2020;EIM;Other;Italy;12.004
+01/01/2020;EIM;Severance;Italy;93
+01/01/2020;EIM;Software Maintenance;USA;14.973
+01/01/2020;EIM;Telecomm;Belgium;38
+01/01/2020;EIM;Training;Belgium;-803
+01/01/2020;EIM;Vehicles;Belgium;389
+01/01/2020;Emerging;Depreciation;Brazil;3.048
+01/01/2020;Emerging;Depreciation;Mexico;444
+01/01/2020;Emerging;Depreciation;USA;63
+01/01/2020;Emerging;External Labor;Brazil;12.518
+01/01/2020;Emerging;External Labor;Mexico;2.950
+01/01/2020;Emerging;Hardware Maintenance;Brazil;810
+01/01/2020;Emerging;Internal Labor;Brazil;6.482
+01/01/2020;Emerging;Internal Labor;Mexico;17.642
+01/01/2020;Emerging;Internal Labor;USA;9.370
+01/01/2020;Emerging;Moving;Brazil;295
+01/01/2020;Emerging;Other;Brazil;-1.092
+01/01/2020;Emerging;Other;Mexico;604
+01/01/2020;Emerging;Recognition;Brazil;2.254
+01/01/2020;Emerging;Severance;Brazil;518
+01/01/2020;Emerging;Severance;Mexico;6
+01/01/2020;Emerging;Software Maintenance;Brazil;389
+01/01/2020;Emerging;Supplies;Brazil;-39
+01/01/2020;Emerging;Supplies;Mexico;66
+01/01/2020;Emerging;Telecomm;Brazil;2.433
+01/01/2020;Emerging;Telecomm;Switzerland;2
+01/01/2020;Emerging;Training;USA;115
+01/01/2020;Emerging;Travel;Brazil;-466
+01/01/2020;Emerging;Travel;Mexico;82
+01/01/2020;Emerging;Travel;USA;2.394
+01/01/2020;Emerging;Vehicles;Mexico;82
+01/01/2020;Enterprise Capabilities;Depreciation;United Kingdom;19
+01/01/2020;Enterprise Capabilities;Internal Labor;Spain;5.889
+01/01/2020;Enterprise Capabilities;Internal Labor;United Kingdom;10.039
+01/01/2020;Enterprise Capabilities;Travel;United Kingdom;316
+01/01/2020;Enterprise Capabilities;Vehicles;United Kingdom;1
+01/01/2020;GRC;Depreciation;Spain;139
+01/01/2020;GRC;Depreciation;United Kingdom;157
+01/01/2020;GRC;External Labor;Germany;-6.125
+01/01/2020;GRC;External Labor;New Zealand;1.214
+01/01/2020;GRC;External Labor;United Kingdom;-20.487
+01/01/2020;GRC;Hardware Maintenance;Spain;339
+01/01/2020;GRC;Internal Labor;France;8.975
+01/01/2020;GRC;Internal Labor;Germany;27.373
+01/01/2020;GRC;Internal Labor;Italy;13.800
+01/01/2020;GRC;Internal Labor;New Zealand;18.000
+01/01/2020;GRC;Internal Labor;United Kingdom;29.700
+01/01/2020;GRC;Internal Labor;USA;20.793
+01/01/2020;GRC;Other;Italy;24
+01/01/2020;GRC;Other;New Zealand;23
+01/01/2020;GRC;Other;Spain;18
+01/01/2020;GRC;Other;United Kingdom;540
+01/01/2020;GRC;Outbound Allocations;United Kingdom;685
+01/01/2020;GRC;Recognition;Germany;3.772
+01/01/2020;GRC;Severance;Italy;657
+01/01/2020;GRC;Severance;New Zealand;217
+01/01/2020;GRC;Taxes;USA;116
+01/01/2020;GRC;Telecomm;Germany;6
+01/01/2020;GRC;Telecomm;Italy;5
+01/01/2020;GRC;Telecomm;New Zealand;20
+01/01/2020;GRC;Telecomm;Spain;30
+01/01/2020;GRC;Telecomm;United Kingdom;20
+01/01/2020;GRC;Training;France;-1.114
+01/01/2020;GRC;Travel;Germany;4.072
+01/01/2020;GRC;Travel;New Zealand;1.020
+01/01/2020;GRC;Travel;United Kingdom;781
+01/01/2020;GRC;Vehicles;New Zealand;29
+01/01/2020;GRC;Vehicles;United Kingdom;33
+01/01/2020;Help Desk;Employee Performance;USA;5
+01/01/2020;Help Desk;External Labor;Ireland;32.318
+01/01/2020;Help Desk;External Labor;USA;281.740
+01/01/2020;Help Desk;Hardware;USA;1.519
+01/01/2020;Help Desk;Hardware Maintenance;USA;27
+01/01/2020;Help Desk;Internal Labor;USA;11.110
+01/01/2020;Help Desk;Other;Spain;265
+01/01/2020;Help Desk;Software Maintenance;USA;4.811
+01/01/2020;Help Desk;Taxes;USA;256
+01/01/2020;Help Desk;Telecomm;Spain;25
+01/01/2020;Help Desk;Travel;Spain;160
+01/01/2020;Hosting;Amortization;USA;540
+01/01/2020;Hosting;Depreciation;USA;45.273
+01/01/2020;Hosting;Employee Performance;USA;12
+01/01/2020;Hosting;External Labor;United Kingdom;748
+01/01/2020;Hosting;External Labor;USA;304.823
+01/01/2020;Hosting;Hardware;USA;919
+01/01/2020;Hosting;Internal Labor;United Kingdom;7.848
+01/01/2020;Hosting;Internal Labor;USA;87.179
+01/01/2020;Hosting;Software;USA;-772
+01/01/2020;Hosting;Software Maintenance;USA;341.396
+01/01/2020;Hosting;Supplies;USA;127
+01/01/2020;Hosting;Taxes;USA;3.611
+01/01/2020;Hosting;Telecomm;USA;158
+01/01/2020;Hosting;Training;USA;1.262
+01/01/2020;Hosting;Vehicles;United Kingdom;6.114
+01/01/2020;Innovation;Depreciation;Austria;2
+01/01/2020;Innovation;Hardware;USA;3
+01/01/2020;Innovation;Internal Labor;USA;20.406
+01/01/2020;Innovation;Supplies;USA;28
+01/01/2020;Innovation;Travel;USA;416
+01/01/2020;Manufacturing;Amortization;Brazil;8
+01/01/2020;Manufacturing;Amortization;France;10.015
+01/01/2020;Manufacturing;Amortization;Germany;1.108
+01/01/2020;Manufacturing;Amortization;Ireland;1.758
+01/01/2020;Manufacturing;Amortization;Italy;17.706
+01/01/2020;Manufacturing;Amortization;Puerto Rico;34.157
+01/01/2020;Manufacturing;Amortization;Spain;192
+01/01/2020;Manufacturing;Amortization;USA;954.111
+01/01/2020;Manufacturing;Depreciation;Brazil;2.038
+01/01/2020;Manufacturing;Depreciation;France;18.350
+01/01/2020;Manufacturing;Depreciation;Germany;251
+01/01/2020;Manufacturing;Depreciation;Ireland;5.599
+01/01/2020;Manufacturing;Depreciation;Italy;14.319
+01/01/2020;Manufacturing;Depreciation;Puerto Rico;53.378
+01/01/2020;Manufacturing;Depreciation;Spain;1.194
+01/01/2020;Manufacturing;Depreciation;United Kingdom;1.020
+01/01/2020;Manufacturing;Depreciation;USA;29.160
+01/01/2020;Manufacturing;Employee Performance;USA;88
+01/01/2020;Manufacturing;External Labor;Brazil;4.192
+01/01/2020;Manufacturing;External Labor;France;197.482
+01/01/2020;Manufacturing;External Labor;Germany;4.286
+01/01/2020;Manufacturing;External Labor;Ireland;12.410
+01/01/2020;Manufacturing;External Labor;Mexico;2.300
+01/01/2020;Manufacturing;External Labor;Puerto Rico;52.439
+01/01/2020;Manufacturing;External Labor;United Kingdom;1.993
+01/01/2020;Manufacturing;External Labor;USA;305.712
+01/01/2020;Manufacturing;Hardware;France;1.598
+01/01/2020;Manufacturing;Hardware;Puerto Rico;19.132
+01/01/2020;Manufacturing;Hardware;Spain;90
+01/01/2020;Manufacturing;Hardware;USA;9.889
+01/01/2020;Manufacturing;Hardware Maintenance;Brazil;462
+01/01/2020;Manufacturing;Hardware Maintenance;France;1.791
+01/01/2020;Manufacturing;Hardware Maintenance;Ireland;86
+01/01/2020;Manufacturing;Hardware Maintenance;Puerto Rico;21.667
+01/01/2020;Manufacturing;Hardware Maintenance;Spain;4.030
+01/01/2020;Manufacturing;Hardware Maintenance;USA;1.396
+01/01/2020;Manufacturing;Internal Labor;Brazil;3.403
+01/01/2020;Manufacturing;Internal Labor;France;132.826
+01/01/2020;Manufacturing;Internal Labor;Germany;27.982
+01/01/2020;Manufacturing;Internal Labor;Ireland;32.005
+01/01/2020;Manufacturing;Internal Labor;Italy;16.962
+01/01/2020;Manufacturing;Internal Labor;Puerto Rico;85.765
+01/01/2020;Manufacturing;Internal Labor;Spain;23.330
+01/01/2020;Manufacturing;Internal Labor;United Kingdom;7.397
+01/01/2020;Manufacturing;Internal Labor;USA;721.981
+01/01/2020;Manufacturing;Moving;USA;241
+01/01/2020;Manufacturing;Other;Brazil;33
+01/01/2020;Manufacturing;Other;France;147
+01/01/2020;Manufacturing;Other;Ireland;234
+01/01/2020;Manufacturing;Other;Italy;2.667
+01/01/2020;Manufacturing;Other;Puerto Rico;10
+01/01/2020;Manufacturing;Other;Spain;8
+01/01/2020;Manufacturing;Other;USA;-1.803
+01/01/2020;Manufacturing;Project Expenses;Puerto Rico;3.507
+01/01/2020;Manufacturing;Project Expenses;USA;11.703
+01/01/2020;Manufacturing;Severance;Brazil;327
+01/01/2020;Manufacturing;Severance;France;-1.194
+01/01/2020;Manufacturing;Severance;Italy;731
+01/01/2020;Manufacturing;Software;USA;29.813
+01/01/2020;Manufacturing;Software Maintenance;France;31.841
+01/01/2020;Manufacturing;Software Maintenance;USA;154.092
+01/01/2020;Manufacturing;Supplies;Brazil;-7
+01/01/2020;Manufacturing;Supplies;France;49
+01/01/2020;Manufacturing;Supplies;Germany;197
+01/01/2020;Manufacturing;Supplies;Ireland;1.145
+01/01/2020;Manufacturing;Supplies;Italy;29
+01/01/2020;Manufacturing;Supplies;Puerto Rico;-49
+01/01/2020;Manufacturing;Supplies;USA;430
+01/01/2020;Manufacturing;Taxes;USA;2.461
+01/01/2020;Manufacturing;Telecomm;Brazil;-42
+01/01/2020;Manufacturing;Telecomm;France;11.876
+01/01/2020;Manufacturing;Telecomm;Ireland;7.134
+01/01/2020;Manufacturing;Telecomm;Italy;24
+01/01/2020;Manufacturing;Telecomm;Puerto Rico;9.449
+01/01/2020;Manufacturing;Telecomm;Spain;41
+01/01/2020;Manufacturing;Telecomm;USA;110
+01/01/2020;Manufacturing;Training;Germany;2.214
+01/01/2020;Manufacturing;Training;Spain;1.304
+01/01/2020;Manufacturing;Training;USA;1.184
+01/01/2020;Manufacturing;Travel;France;759
+01/01/2020;Manufacturing;Travel;Germany;98
+01/01/2020;Manufacturing;Travel;Ireland;1.591
+01/01/2020;Manufacturing;Travel;Italy;370
+01/01/2020;Manufacturing;Travel;Puerto Rico;918
+01/01/2020;Manufacturing;Travel;United Kingdom;1.256
+01/01/2020;Manufacturing;Travel;USA;11.564
+01/01/2020;Manufacturing;Vehicles;France;219
+01/01/2020;Manufacturing;Vehicles;Spain;-9
+01/01/2020;Manufacturing;Vehicles;United Kingdom;2
+01/01/2020;Mobility;Depreciation;United Kingdom;12.661
+01/01/2020;Mobility;Depreciation;USA;3.644
+01/01/2020;Mobility;External Labor;United Kingdom;-3.018
+01/01/2020;Mobility;External Labor;USA;45.273
+01/01/2020;Mobility;Internal Labor;United Kingdom;8.464
+01/01/2020;Mobility;Other;United Kingdom;11.561
+01/01/2020;Mobility;Outbound Allocations;United Kingdom;1.371
+01/01/2020;Mobility;Software;USA;2.811
+01/01/2020;Mobility;Software Maintenance;USA;27.614
+01/01/2020;Mobility;Taxes;USA;932
+01/01/2020;Mobility;Telecomm;United Kingdom;436
+01/01/2020;Mobility;Travel;United Kingdom;3.120
+01/01/2020;Mobility;Vehicles;United Kingdom;384
+01/01/2020;Networking;Amortization;USA;615
+01/01/2020;Networking;Depreciation;Canada;325
+01/01/2020;Networking;Depreciation;Mexico;5
+01/01/2020;Networking;Depreciation;Switzerland;556
+01/01/2020;Networking;Depreciation;United Kingdom;4.587
+01/01/2020;Networking;Depreciation;USA;38.628
+01/01/2020;Networking;Employee Performance;USA;5
+01/01/2020;Networking;External Labor;Ireland;57.092
+01/01/2020;Networking;External Labor;Mexico;14.363
+01/01/2020;Networking;External Labor;Switzerland;-617
+01/01/2020;Networking;External Labor;United Kingdom;-7.150
+01/01/2020;Networking;External Labor;USA;361.519
+01/01/2020;Networking;Hardware;Switzerland;-802
+01/01/2020;Networking;Hardware;United Kingdom;-33.055
+01/01/2020;Networking;Hardware;USA;27.236
+01/01/2020;Networking;Hardware Maintenance;Switzerland;1.155
+01/01/2020;Networking;Hardware Maintenance;USA;8.318
+01/01/2020;Networking;Internal Labor;Germany;19.777
+01/01/2020;Networking;Internal Labor;Switzerland;-5.559
+01/01/2020;Networking;Internal Labor;United Kingdom;16.798
+01/01/2020;Networking;Internal Labor;USA;53.507
+01/01/2020;Networking;Other;Germany;401
+01/01/2020;Networking;Other;Mexico;79
+01/01/2020;Networking;Other;Switzerland;818
+01/01/2020;Networking;Other;United Kingdom;718
+01/01/2020;Networking;Other;USA;35
+01/01/2020;Networking;Project Expenses;USA;467
+01/01/2020;Networking;Recognition;USA;280
+01/01/2020;Networking;Severance;Switzerland;15.214
+01/01/2020;Networking;Software;United Kingdom;-5.813
+01/01/2020;Networking;Software Maintenance;USA;9.933
+01/01/2020;Networking;Supplies;USA;60
+01/01/2020;Networking;Taxes;USA;4.812
+01/01/2020;Networking;Telecomm;Canada;3.729
+01/01/2020;Networking;Telecomm;Mexico;101
+01/01/2020;Networking;Telecomm;Switzerland;1.771
+01/01/2020;Networking;Telecomm;United Kingdom;106
+01/01/2020;Networking;Telecomm;USA;281.802
+01/01/2020;Networking;Training;Germany;122
+01/01/2020;Networking;Travel;Switzerland;4.620
+01/01/2020;Networking;Travel;United Kingdom;117
+01/01/2020;Networking;Vehicles;Switzerland;183
+01/01/2020;Networking;Vehicles;United Kingdom;310
+01/01/2020;Planning;Amortization;USA;834
+01/01/2020;Planning;CAPEX;USA;75
+01/01/2020;Planning;Depreciation;USA;316.624
+01/01/2020;Planning;Employee Performance;USA;43
+01/01/2020;Planning;External Labor;United Kingdom;1.379
+01/01/2020;Planning;External Labor;USA;21.891
+01/01/2020;Planning;Hardware;USA;218
+01/01/2020;Planning;Hardware Maintenance;USA;116
+01/01/2020;Planning;Inbound Allocations;United Kingdom;-3.838
+01/01/2020;Planning;Internal Labor;France;13.002
+01/01/2020;Planning;Internal Labor;United Kingdom;11.120
+01/01/2020;Planning;Internal Labor;USA;401.282
+01/01/2020;Planning;Other;France;13
+01/01/2020;Planning;Other;United Kingdom;18
+01/01/2020;Planning;Other;USA;1.415
+01/01/2020;Planning;Outbound Allocations;United Kingdom;-4.274
+01/01/2020;Planning;Software;USA;16.624
+01/01/2020;Planning;Software Maintenance;Italy;7.356
+01/01/2020;Planning;Software Maintenance;USA;193.442
+01/01/2020;Planning;Supplies;USA;687
+01/01/2020;Planning;Taxes;USA;1.462
+01/01/2020;Planning;Telecomm;Brazil;50
+01/01/2020;Planning;Telecomm;United Kingdom;4.204
+01/01/2020;Planning;Telecomm;USA;110.580
+01/01/2020;Planning;Training;United Kingdom;-128
+01/01/2020;Planning;Training;USA;586
+01/01/2020;Planning;Travel;France;7
+01/01/2020;Planning;Travel;Spain;108
+01/01/2020;Planning;Travel;United Kingdom;67
+01/01/2020;Planning;Travel;USA;618
+01/01/2020;Planning;Vehicles;United Kingdom;1
+01/01/2020;Portals;Employee Performance;USA;4
+01/01/2020;Portals;External Labor;USA;21.934
+01/01/2020;Portals;Hardware;USA;56
+01/01/2020;Portals;Internal Labor;USA;70.342
+01/01/2020;Portals;Software;USA;9.900
+01/01/2020;Portfolio Management;Employee Performance;USA;8
+01/01/2020;Portfolio Management;Hardware;USA;77
+01/01/2020;Portfolio Management;Internal Labor;USA;73.328
+01/01/2020;Portfolio Management;Other;USA;13.440
+01/01/2020;Portfolio Management;Travel;USA;120
+01/01/2020;Process Management;Depreciation;USA;287
+01/01/2020;Process Management;Employee Performance;USA;2
+01/01/2020;Process Management;External Labor;USA;64.167
+01/01/2020;Process Management;Internal Labor;USA;100.861
+01/01/2020;Process Management;Other;USA;3.785
+01/01/2020;Process Management;Outbound Allocations;USA;24.683
+01/01/2020;Process Management;Software;USA;8.168
+01/01/2020;Process Management;Software Maintenance;USA;8.256
+01/01/2020;Process Management;Supplies;USA;70
+01/01/2020;Process Management;Taxes;USA;107
+01/01/2020;Process Management;Training;USA;114
+01/01/2020;Productivity;Amortization;France;64
+01/01/2020;Productivity;Amortization;Italy;1.602
+01/01/2020;Productivity;CAPEX;United Kingdom;97
+01/01/2020;Productivity;CAPEX;USA;45
+01/01/2020;Productivity;Depreciation;Austria;333
+01/01/2020;Productivity;Depreciation;Belgium;342
+01/01/2020;Productivity;Depreciation;Canada;1
+01/01/2020;Productivity;Depreciation;France;2.891
+01/01/2020;Productivity;Depreciation;Germany;3.353
+01/01/2020;Productivity;Depreciation;Ireland;4.002
+01/01/2020;Productivity;Depreciation;Italy;15.448
+01/01/2020;Productivity;Depreciation;Netherlands;277
+01/01/2020;Productivity;Depreciation;Spain;1.994
+01/01/2020;Productivity;Depreciation;Switzerland;436
+01/01/2020;Productivity;Depreciation;United Kingdom;133
+01/01/2020;Productivity;Depreciation;USA;194
+01/01/2020;Productivity;Employee Performance;USA;6
+01/01/2020;Productivity;External Labor;Belgium;644
+01/01/2020;Productivity;External Labor;France;64.317
+01/01/2020;Productivity;External Labor;Germany;-18.788
+01/01/2020;Productivity;External Labor;Ireland;17.321
+01/01/2020;Productivity;External Labor;Netherlands;-829
+01/01/2020;Productivity;External Labor;Spain;5.395
+01/01/2020;Productivity;External Labor;Switzerland;335
+01/01/2020;Productivity;External Labor;United Kingdom;30.068
+01/01/2020;Productivity;External Labor;USA;436.843
+01/01/2020;Productivity;Hardware;Austria;9.456
+01/01/2020;Productivity;Hardware;Belgium;243
+01/01/2020;Productivity;Hardware;France;28.924
+01/01/2020;Productivity;Hardware;Germany;22.475
+01/01/2020;Productivity;Hardware;Ireland;1.199
+01/01/2020;Productivity;Hardware;Netherlands;4.956
+01/01/2020;Productivity;Hardware;Spain;280
+01/01/2020;Productivity;Hardware;Switzerland;15.888
+01/01/2020;Productivity;Hardware;United Kingdom;6.691
+01/01/2020;Productivity;Hardware;USA;-13.272
+01/01/2020;Productivity;Hardware Maintenance;Belgium;-1.228
+01/01/2020;Productivity;Hardware Maintenance;France;-30
+01/01/2020;Productivity;Hardware Maintenance;Germany;160
+01/01/2020;Productivity;Hardware Maintenance;Spain;-20.483
+01/01/2020;Productivity;Hardware Maintenance;Switzerland;-77
+01/01/2020;Productivity;Hardware Maintenance;USA;53
+01/01/2020;Productivity;Inbound Allocations;Germany;-1.461
+01/01/2020;Productivity;Inbound Allocations;Spain;1.342
+01/01/2020;Productivity;Inbound Allocations;United Kingdom;86
+01/01/2020;Productivity;Internal Labor;Austria;3.992
+01/01/2020;Productivity;Internal Labor;Belgium;4.566
+01/01/2020;Productivity;Internal Labor;France;12.974
+01/01/2020;Productivity;Internal Labor;Germany;15.371
+01/01/2020;Productivity;Internal Labor;Italy;124.919
+01/01/2020;Productivity;Internal Labor;Spain;2.381
+01/01/2020;Productivity;Internal Labor;Switzerland;9.596
+01/01/2020;Productivity;Internal Labor;United Kingdom;17.795
+01/01/2020;Productivity;Internal Labor;USA;59.599
+01/01/2020;Productivity;Other;Canada;2.335
+01/01/2020;Productivity;Other;Germany;46
+01/01/2020;Productivity;Other;Italy;417
+01/01/2020;Productivity;Other;Spain;66
+01/01/2020;Productivity;Other;Switzerland;63
+01/01/2020;Productivity;Other;United Kingdom;7.848
+01/01/2020;Productivity;Other;USA;3.746
+01/01/2020;Productivity;Outbound Allocations;United Kingdom;4.112
+01/01/2020;Productivity;Project Expenses;United Kingdom;4.424
+01/01/2020;Productivity;Recognition;Austria;64
+01/01/2020;Productivity;Severance;Austria;46
+01/01/2020;Productivity;Severance;Italy;-115.600
+01/01/2020;Productivity;Software;Belgium;-398
+01/01/2020;Productivity;Software;France;24
+01/01/2020;Productivity;Software;USA;3.135
+01/01/2020;Productivity;Software Maintenance;USA;4.413
+01/01/2020;Productivity;Supplies;Belgium;574
+01/01/2020;Productivity;Supplies;France;69
+01/01/2020;Productivity;Supplies;Germany;409
+01/01/2020;Productivity;Supplies;Switzerland;47.470
+01/01/2020;Productivity;Supplies;United Kingdom;11
+01/01/2020;Productivity;Taxes;USA;165
+01/01/2020;Productivity;Telecomm;Austria;-115
+01/01/2020;Productivity;Telecomm;Belgium;1.481
+01/01/2020;Productivity;Telecomm;France;311
+01/01/2020;Productivity;Telecomm;Germany;7
+01/01/2020;Productivity;Telecomm;Italy;-224
+01/01/2020;Productivity;Telecomm;Netherlands;-1.009
+01/01/2020;Productivity;Telecomm;Spain;19.851
+01/01/2020;Productivity;Telecomm;Switzerland;4.814
+01/01/2020;Productivity;Telecomm;United Kingdom;22.974
+01/01/2020;Productivity;Telecomm;USA;72
+01/01/2020;Productivity;Training;France;753
+01/01/2020;Productivity;Training;United Kingdom;237
+01/01/2020;Productivity;Training;USA;560
+01/01/2020;Productivity;Travel;Austria;37
+01/01/2020;Productivity;Travel;France;314
+01/01/2020;Productivity;Travel;Germany;180
+01/01/2020;Productivity;Travel;Italy;529
+01/01/2020;Productivity;Travel;Spain;15
+01/01/2020;Productivity;Travel;United Kingdom;278
+01/01/2020;Productivity;Vehicles;Belgium;390
+01/01/2020;Productivity;Vehicles;Spain;74
+01/01/2020;Productivity;Vehicles;United Kingdom;273
+01/01/2020;Productivity;Vehicles;USA;4
+01/01/2020;Quality & Compliance;Employee Performance;USA;10
+01/01/2020;Quality & Compliance;External Labor;USA;1.792
+01/01/2020;Quality & Compliance;Hardware;USA;56
+01/01/2020;Quality & Compliance;Internal Labor;USA;125.063
+01/01/2020;Quality & Compliance;Other;USA;15
+01/01/2020;Quality & Compliance;Supplies;USA;172
+01/01/2020;Quality & Compliance;Taxes;USA;6
+01/01/2020;Quality & Compliance;Travel;USA;260
+01/01/2020;R&D;Amortization;USA;31
+01/01/2020;R&D;Depreciation;Spain;564
+01/01/2020;R&D;Depreciation;United Kingdom;1.817
+01/01/2020;R&D;Depreciation;USA;196
+01/01/2020;R&D;Employee Performance;USA;8
+01/01/2020;R&D;External Labor;United Kingdom;3.199
+01/01/2020;R&D;External Labor;USA;840
+01/01/2020;R&D;Hardware;Spain;72
+01/01/2020;R&D;Hardware;USA;73
+01/01/2020;R&D;Inbound Allocations;Spain;1.234
+01/01/2020;R&D;Inbound Allocations;United Kingdom;233
+01/01/2020;R&D;Internal Labor;Spain;8.371
+01/01/2020;R&D;Internal Labor;United Kingdom;15.158
+01/01/2020;R&D;Internal Labor;USA;177.412
+01/01/2020;R&D;Moving;United Kingdom;9.233
+01/01/2020;R&D;Other;Spain;75
+01/01/2020;R&D;Other;United Kingdom;117
+01/01/2020;R&D;Other;USA;2.288
+01/01/2020;R&D;Outbound Allocations;Spain;2.580
+01/01/2020;R&D;Outbound Allocations;United Kingdom;5.564
+01/01/2020;R&D;Software;USA;9.691
+01/01/2020;R&D;Software Maintenance;USA;24.827
+01/01/2020;R&D;Supplies;United Kingdom;103
+01/01/2020;R&D;Supplies;USA;3.000
+01/01/2020;R&D;Taxes;USA;1.666
+01/01/2020;R&D;Telecomm;Spain;26
+01/01/2020;R&D;Training;United Kingdom;943
+01/01/2020;R&D;Training;USA;1.047
+01/01/2020;R&D;Travel;Spain;282
+01/01/2020;R&D;Travel;United Kingdom;754
+01/01/2020;R&D;Travel;USA;866
+01/01/2020;R&D;Vehicles;United Kingdom;661
+01/01/2020;R1;Depreciation;Austria;8
+01/01/2020;R1;Depreciation;Belgium;3
+01/01/2020;R1;External Labor;Belgium;13.896
+01/01/2020;R1;External Labor;Germany;-16.218
+01/01/2020;R1;External Labor;Spain;66
+01/01/2020;R1;External Labor;United Kingdom;1.396
+01/01/2020;R1;Hardware;Canada;74
+01/01/2020;R1;Hardware Maintenance;Canada;56.966
+01/01/2020;R1;Hardware Maintenance;Italy;717
+01/01/2020;R1;Internal Labor;Austria;3.287
+01/01/2020;R1;Internal Labor;Belgium;18.762
+01/01/2020;R1;Internal Labor;Canada;11.416
+01/01/2020;R1;Internal Labor;Germany;3.404
+01/01/2020;R1;Internal Labor;Italy;3.799
+01/01/2020;R1;Internal Labor;Spain;5.171
+01/01/2020;R1;Internal Labor;United Kingdom;2.005
+01/01/2020;R1;Other;Canada;5
+01/01/2020;R1;Other;Germany;-22.309
+01/01/2020;R1;Other;Italy;776
+01/01/2020;R1;Recognition;Austria;33
+01/01/2020;R1;Severance;Austria;32
+01/01/2020;R1;Severance;Italy;199
+01/01/2020;R1;Telecomm;Austria;24
+01/01/2020;R1;Telecomm;Belgium;115
+01/01/2020;R1;Telecomm;Canada;93
+01/01/2020;R1;Telecomm;Italy;12
+01/01/2020;R1;Telecomm;United Kingdom;126
+01/01/2020;R1;Travel;Belgium;459
+01/01/2020;R1;Travel;Canada;606
+01/01/2020;R1;Travel;United Kingdom;287
+01/01/2020;R1;Vehicles;Belgium;1.171
+01/01/2020;R1;Vehicles;United Kingdom;1
+01/01/2020;R2;Amortization;United Kingdom;26.269
+01/01/2020;R2;Amortization;USA;1.901.984
+01/01/2020;R2;CAPEX;United Kingdom;-8.021
+01/01/2020;R2;CAPEX;USA;3.830
+01/01/2020;R2;Depreciation;Brazil;9.804
+01/01/2020;R2;Depreciation;Mexico;2
+01/01/2020;R2;Depreciation;United Kingdom;220
+01/01/2020;R2;Depreciation;USA;87.104
+01/01/2020;R2;Employee Performance;USA;88
+01/01/2020;R2;External Labor;Brazil;9.560
+01/01/2020;R2;External Labor;France;2.332
+01/01/2020;R2;External Labor;Mexico;670
+01/01/2020;R2;External Labor;Switzerland;75
+01/01/2020;R2;External Labor;United Kingdom;11.459
+01/01/2020;R2;External Labor;USA;483.752
+01/01/2020;R2;Hardware;USA;86
+01/01/2020;R2;Hardware Maintenance;Brazil;516
+01/01/2020;R2;Hardware Maintenance;USA;113
+01/01/2020;R2;Inbound Allocations;Brazil;318
+01/01/2020;R2;Inbound Allocations;Spain;1.342
+01/01/2020;R2;Internal Labor;Belgium;4.215
+01/01/2020;R2;Internal Labor;Brazil;11.976
+01/01/2020;R2;Internal Labor;Germany;11.630
+01/01/2020;R2;Internal Labor;Italy;2.241
+01/01/2020;R2;Internal Labor;Spain;4.894
+01/01/2020;R2;Internal Labor;Switzerland;5.411
+01/01/2020;R2;Internal Labor;United Kingdom;78.262
+01/01/2020;R2;Internal Labor;USA;528.536
+01/01/2020;R2;Legal;USA;6.090
+01/01/2020;R2;Moving;USA;39
+01/01/2020;R2;Other;Brazil;367
+01/01/2020;R2;Other;United Kingdom;10.893
+01/01/2020;R2;Other;USA;-413
+01/01/2020;R2;Project Expenses;USA;33.538
+01/01/2020;R2;Recognition;Brazil;989
+01/01/2020;R2;Recognition;USA;35
+01/01/2020;R2;Severance;Brazil;731
+01/01/2020;R2;Severance;Italy;101
+01/01/2020;R2;Software;United Kingdom;-1.252
+01/01/2020;R2;Software;USA;92.052
+01/01/2020;R2;Software Maintenance;France;618
+01/01/2020;R2;Software Maintenance;USA;716.640
+01/01/2020;R2;Supplies;Brazil;726
+01/01/2020;R2;Supplies;USA;53
+01/01/2020;R2;Taxes;USA;6.129
+01/01/2020;R2;Telecomm;Brazil;248
+01/01/2020;R2;Telecomm;Spain;31
+01/01/2020;R2;Telecomm;Switzerland;20
+01/01/2020;R2;Telecomm;United Kingdom;156
+01/01/2020;R2;Training;United Kingdom;7.443
+01/01/2020;R2;Training;USA;660
+01/01/2020;R2;Travel;Brazil;450
+01/01/2020;R2;Travel;Spain;97
+01/01/2020;R2;Travel;Switzerland;102
+01/01/2020;R2;Travel;United Kingdom;9.551
+01/01/2020;R2;Travel;USA;3.002
+01/01/2020;R2;Vehicles;United Kingdom;744
+01/01/2020;R3;Amortization;USA;304.508
+01/01/2020;R3;Depreciation;USA;1.742
+01/01/2020;R3;External Labor;Spain;14
+01/01/2020;R3;External Labor;United Kingdom;-35.189
+01/01/2020;R3;External Labor;USA;268.441
+01/01/2020;R3;Hardware;USA;34
+01/01/2020;R3;Internal Labor;Belgium;5.649
+01/01/2020;R3;Internal Labor;France;6.517
+01/01/2020;R3;Internal Labor;Germany;12.887
+01/01/2020;R3;Internal Labor;Spain;7.531
+01/01/2020;R3;Internal Labor;Switzerland;3.723
+01/01/2020;R3;Internal Labor;United Kingdom;77.747
+01/01/2020;R3;Internal Labor;USA;42.311
+01/01/2020;R3;Moving;United Kingdom;-7.784
+01/01/2020;R3;Other;Spain;241
+01/01/2020;R3;Other;United Kingdom;221
+01/01/2020;R3;Other;USA;108
+01/01/2020;R3;Software;United Kingdom;719
+01/01/2020;R3;Software;USA;91.114
+01/01/2020;R3;Software Maintenance;USA;270.367
+01/01/2020;R3;Supplies;USA;6
+01/01/2020;R3;Taxes;USA;98
+01/01/2020;R3;Telecomm;Belgium;-3
+01/01/2020;R3;Telecomm;Spain;119
+01/01/2020;R3;Telecomm;Switzerland;107
+01/01/2020;R3;Telecomm;United Kingdom;561
+01/01/2020;R3;Training;USA;630
+01/01/2020;R3;Travel;France;49
+01/01/2020;R3;Travel;Germany;1.015
+01/01/2020;R3;Travel;Spain;2.904
+01/01/2020;R3;Travel;United Kingdom;5.576
+01/01/2020;R3;Travel;USA;2.420
+01/01/2020;R3;Vehicles;Belgium;69
+01/01/2020;R3;Vehicles;Spain;132
+01/01/2020;R3;Vehicles;United Kingdom;10.884
+01/01/2020;R5;Amortization;USA;2.643
+01/01/2020;R5;CAPEX;USA;50.978
+01/01/2020;R5;Depreciation;USA;42.009
+01/01/2020;R5;Employee Performance;Puerto Rico;57
+01/01/2020;R5;Employee Performance;USA;14
+01/01/2020;R5;External Labor;Puerto Rico;4.491
+01/01/2020;R5;External Labor;USA;182.094
+01/01/2020;R5;Hardware;Puerto Rico;19.369
+01/01/2020;R5;Hardware;USA;66
+01/01/2020;R5;Hardware Maintenance;Puerto Rico;371
+01/01/2020;R5;Internal Labor;Puerto Rico;9.433
+01/01/2020;R5;Internal Labor;USA;274.832
+01/01/2020;R5;Other;Puerto Rico;30
+01/01/2020;R5;Other;USA;4.759
+01/01/2020;R5;Recognition;USA;9
+01/01/2020;R5;Software;USA;3.397
+01/01/2020;R5;Software Maintenance;USA;84.221
+01/01/2020;R5;Supplies;USA;293
+01/01/2020;R5;Taxes;USA;3.003
+01/01/2020;R5;Telecomm;USA;6
+01/01/2020;R5;Training;USA;63
+01/01/2020;R5;Travel;USA;1.125
+01/01/2020;R5;Vehicles;Puerto Rico;268
+01/01/2020;Security & Risk Management;Employee Performance;USA;5
+01/01/2020;Security & Risk Management;Hardware;USA;35
+01/01/2020;Security & Risk Management;Internal Labor;USA;58.877
+01/01/2020;Security & Risk Management;Other;USA;57
+01/01/2020;Security & Risk Management;Supplies;USA;38
+01/01/2020;Security & Risk Management;Taxes;USA;25
+01/01/2020;Security & Risk Management;Travel;USA;155
+01/01/2020;Six Sigma;Employee Performance;USA;16
+01/01/2020;Six Sigma;Internal Labor;USA;36.627
+01/01/2020;Six Sigma;Travel;USA;4.624
+01/01/2020;SSO;Amortization;USA;316
+01/01/2020;SSO;Depreciation;USA;2.083
+01/01/2020;SSO;Employee Performance;USA;21
+01/01/2020;SSO;External Labor;USA;71.846
+01/01/2020;SSO;Hardware;USA;14
+01/01/2020;SSO;Internal Labor;USA;82.088
+01/01/2020;SSO;Recognition;USA;66
+01/01/2020;SSO;Software;USA;16.066
+01/01/2020;SSO;Software Maintenance;USA;21.868
+01/01/2020;SSO;Supplies;USA;185
+01/01/2020;SSO;Taxes;USA;57
+01/01/2020;SSO;Training;USA;53
+01/01/2020;SSO;Travel;USA;16
+01/01/2020;Vendor Management;Depreciation;USA;117
+01/01/2020;Vendor Management;Employee Performance;USA;20
+01/01/2020;Vendor Management;External Labor;USA;7.343
+01/01/2020;Vendor Management;Hardware;USA;138
+01/01/2020;Vendor Management;Internal Labor;USA;165.183
+01/01/2020;Vendor Management;Other;USA;7.725
+01/01/2020;Vendor Management;Supplies;USA;14
+01/01/2020;Vendor Management;Taxes;USA;16
+01/01/2020;Vendor Management;Training;USA;492
+01/01/2020;Vendor Management;Travel;USA;7
